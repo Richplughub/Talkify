@@ -111,7 +111,8 @@ npm run dev
 ### Backend:
 
 ```bash
-npm run server
+cd talkify-backend
+npm run dev
 ```
 
 ---
